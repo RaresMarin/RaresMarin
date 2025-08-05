@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I’m currently working on **a Calculator project**
+- 🔭 I’m currently working on **Solar sistem project**
 
 - 🌱 Currently learning **React**
 
