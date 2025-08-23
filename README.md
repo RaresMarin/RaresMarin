@@ -4,9 +4,9 @@
 
 ---
 
-- 🔭 I’m currently working on **To Do List**
+- 🔭 I’m currently working on **Book**
 
-- 🌱 Currently learning **React**
+- 🌱 Currently learning **C#**
 
 - 🤝 Looking to collaborate on **anything related to Web Design**
 
