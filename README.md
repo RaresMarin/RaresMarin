@@ -63,8 +63,13 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaresMarin&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaresMarin&layout=compact&theme=dark)
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=USERNAME_TAU&show_icons=true&theme=dark"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_TAU&layout=compact&theme=dark"
+    height="165"
+  />
+</div>
