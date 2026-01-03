@@ -63,13 +63,4 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=RaresMarin&show_icons=true&theme=dark"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaresMarin&layout=compact&theme=dark"
-    height="165"
-  />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaresMarin&layout=compact" />
