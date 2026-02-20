@@ -19,17 +19,6 @@
 - 📄 Learn more about me on [LinkedIn](https://www.linkedin.com/in/rareș-mărincaș-08a081370)
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rareș Mărincaș GitHub stats](https://github-readme-stats.vercel.app/api?username=RaresMarin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaresMarin&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RaresMarin&theme=tokyonight&hide_border=true)
-
-</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/RaresMarin" target="_blank">
@@ -45,6 +34,17 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RaresMarin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RaresMarin&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" />
+
+<img src="https://streak-stats.demolab.com?user=RaresMarin&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
