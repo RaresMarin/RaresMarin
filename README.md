@@ -19,8 +19,6 @@
 - 📄 Learn more about me on [LinkedIn](https://www.linkedin.com/in/rareș-mărincaș-08a081370)
 
 ---
-## Stats
-![RaresMarin' GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/RaresMarin" target="_blank">
