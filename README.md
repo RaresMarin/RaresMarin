@@ -23,14 +23,13 @@
 
 <div align="center">
 
-![RaresMarin GitHub stats](https://github-readme-stats.vercel.app/api?username=RaresMarin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Rareș Mărincaș GitHub stats](https://github-readme-stats.vercel.app/api?username=RaresMarin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaresMarin&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=RaresMarin&theme=tokyonight&hide_border=true)
 
 </div>
----
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/RaresMarin" target="_blank">
