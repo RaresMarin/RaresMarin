@@ -34,9 +34,9 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raresmarin&show_icons=true&locale=en&layout=compact" alt="raresmarin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raresmarin&show_icons=true&locale=en&layout=compact" alt="raresmarin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raresmarin&show_icons=true&locale=en" alt="raresmarin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raresmarin&show_icons=true&locale=en" alt="raresmarin" /></p>
 
 
 ---
