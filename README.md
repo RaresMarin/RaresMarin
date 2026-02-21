@@ -34,10 +34,10 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<div style="text-align:center;display:block;margin:auto;">
-<img src="https://streak-stats.demolab.com?user=RaresMarin&theme=tokyonight&hide_border=true" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raresmarin&show_icons=true&locale=en&layout=compact" alt="raresmarin" /></p>
 
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raresmarin&show_icons=true&locale=en" alt="raresmarin" /></p>
+
 
 ---
 
