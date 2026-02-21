@@ -20,14 +20,15 @@
 
 ---
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaresMarin&show_icons=true&theme=default&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaresMarin&show_icons=true&theme=radical&count_private=true&cache_seconds=86400)
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=RaresMarin&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=RaresMarin&theme=radical&cache_seconds=86400)
 
 ## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaresMarin&layout=compact&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaresMarin&layout=compact&theme=radical&cache_seconds=86400)
 
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/RaresMarin" target="_blank">
