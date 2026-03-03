@@ -36,7 +36,17 @@
   </a>
 </p>
 
+---
 
+## 📊 GitHub Stats
+
+![RaresMarin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaresMarin&show_icons=true&theme=radical)
+
+---
+
+## 🛠 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaresMarin&layout=compact&theme=radical)
 
 ---
 
