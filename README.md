@@ -38,18 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![RaresMarin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaresMarin&show_icons=true&theme=radical)
-
----
-
-## 🛠 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaresMarin&layout=compact&theme=radical)
-
----
-
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank">
