@@ -62,3 +62,9 @@
 
 ---
 
+
+## 📊 GitHub Stats
+![RaresMarin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaresMarin&show_icons=true&theme=radical)
+
+## 🔥 GitHub Streak
+![RaresMarin's GitHub Streak](https://streak-stats.demolab.com?user=RaresMarin&theme=radical)
