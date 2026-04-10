@@ -62,11 +62,14 @@
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats (Public)
-![RaresMarin's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RaresMarin&show_icons=true&theme=radical)
+
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RaresMarin&show_icons=true&theme=default&hide_border=true)
 
 ## 🔥 GitHub Streak (Public)
-![RaresMarin's GitHub Streak](https://streak-stats.demolab.com?user=RaresMarin&theme=radical)
 
-## 🔁 Backup Stats
-![RaresMarin's GitHub stats backup](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RaresMarin&show_icons=true&theme=radical)
+![GitHub streak](https://streak-stats.demolab.com?user=RaresMarin&theme=github-light&hide_border=true)
+
+</div>
