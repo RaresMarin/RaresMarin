@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rareș Mărincaș</h1>
 <h3 align="center">🚀 A passionate Frontend Developer from Romania</h3>
-
+<div align="center">
 
 ---
 
@@ -61,8 +61,6 @@
 </p>
 
 ---
-
-<div align="center">
 
 ## 📊 GitHub Stats (Public)
 
