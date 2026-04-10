@@ -4,19 +4,19 @@
 
 ---
 
-- 🔭 I’m currently working on **Book**
+ 🔭 I’m currently working on **Book**
 
-- 🌱 Currently learning **C#**
+ 🌱 Currently learning **C#**
 
-- 🤝 Looking to collaborate on **anything related to Web Design**
+ 🤝 Looking to collaborate on **anything related to Web Design**
 
-- 🧠 Open to **open-source projects** and **freelance opportunities**
+ 🧠 Open to **open-source projects** and **freelance opportunities**
 
-- 💬 Ask me about **Web Design, HTML/CSS, JavaScript**
+ 💬 Ask me about **Web Design, HTML/CSS, JavaScript**
 
-- 📫 Reach me at **marincasrares003@gmail.com**
+ 📫 Reach me at **marincasrares003@gmail.com**
 
-- 📄 Learn more about me on [LinkedIn](https://www.linkedin.com/in/rareș-mărincaș-08a081370)
+ 📄 Learn more about me on [LinkedIn](https://www.linkedin.com/in/rareș-mărincaș-08a081370)
 
 ---
 
