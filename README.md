@@ -62,11 +62,13 @@
 
 ---
 
-## 📊 GitHub Stats (Public)
+<h3>📊 GitHub Stats</h3>
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RaresMarin&show_icons=true&theme=default&hide_border=true)
 
-## 🔥 GitHub Streak (Public)
+---
+
+<h3> 🔥 GitHub Streak  </h3>
 
 ![GitHub streak](https://streak-stats.demolab.com?user=RaresMarin&theme=github-light&hide_border=true)
 
