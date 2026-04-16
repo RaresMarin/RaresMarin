@@ -37,8 +37,10 @@
 </p>
 </div>
 
+
 ---
 
+<div style="display:grid;grid-template-collumn:repeat(6,1fr)">
 <h3>Languages & Tools:</h3>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
