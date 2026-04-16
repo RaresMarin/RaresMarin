@@ -39,6 +39,7 @@
 ---
 
 <h3>Languages & Tools:</h3>
+<div style="display:inline;">
 <p>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -59,7 +60,7 @@
     <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="40" height="40"/>
   </a>
 </p>
-
+</div>
 ---
 
 <h3>📊 GitHub Stats</h3>
