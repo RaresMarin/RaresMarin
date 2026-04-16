@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rareș Mărincaș</h1>
 <h3 align="center">🚀 A passionate Frontend Developer from Romania</h3>
-<div align="center">
+<div align="center"> 
 
 ---
 
@@ -35,6 +35,7 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+</div>
 
 ---
 
@@ -59,6 +60,8 @@
   </a>
 
 ---
+
+<div align="center"> 
 
 <h3>📊 GitHub Stats</h3>
 
